@@ -1,2 +1,2 @@
 # CodigosUnB
-Códigos realizados de atividades da UnB ( Universidade de Brasília ).
+Códigos realizados de atividades da UnB (Universidade de Brasília).
