@@ -5,6 +5,7 @@ Repositório dedicado ao armazenamento de códigos e resoluções de exercícios
 ### 🛠️ Tecnologias
 * **C**
 * **Git & GitHub**
+* **C#**
 
 ---
 
