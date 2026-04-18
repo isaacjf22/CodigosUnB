@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Temp\\Projetos\\PetMobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4033CE27-153D-FEBD-CE38-A344F6470BEA}|PetMobile\\PetMobile.csproj|s:\\temp\\projetos\\petmobile\\petmobile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4033CE27-153D-FEBD-CE38-A344F6470BEA}|PetMobile\\PetMobile.csproj|solutionrelative:petmobile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4033CE27-153D-FEBD-CE38-A344F6470BEA}|PetMobile\\PetMobile.csproj|s:\\temp\\projetos\\petmobile\\petmobile\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4033CE27-153D-FEBD-CE38-A344F6470BEA}|PetMobile\\PetMobile.csproj|solutionrelative:petmobile\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "S:\\Temp\\Projetos\\PetMobile\\PetMobile\\Pet.cs",
+              "RelativeDocumentMoniker": "PetMobile\\Pet.cs",
+              "ToolTip": "S:\\Temp\\Projetos\\PetMobile\\PetMobile\\Pet.cs",
+              "RelativeToolTip": "PetMobile\\Pet.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwBoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T01:22:21.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Temp\\Projetos\\PetMobile\\PetMobile\\Program.cs",
+              "RelativeDocumentMoniker": "PetMobile\\Program.cs",
+              "ToolTip": "S:\\Temp\\Projetos\\PetMobile\\PetMobile\\Program.cs",
+              "RelativeToolTip": "PetMobile\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T01:21:22.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
