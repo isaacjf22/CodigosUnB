@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Temp\\Projetos\\ArenaRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BA8502-41BF-4DA9-9D1D-E1C6D806A476}|ArenaRPG\\ArenaRPG.csproj|s:\\temp\\projetos\\arenarpg\\arenarpg\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BA8502-41BF-4DA9-9D1D-E1C6D806A476}|ArenaRPG\\ArenaRPG.csproj|solutionrelative:arenarpg\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BA8502-41BF-4DA9-9D1D-E1C6D806A476}|ArenaRPG\\ArenaRPG.csproj|s:\\temp\\projetos\\arenarpg\\arenarpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BA8502-41BF-4DA9-9D1D-E1C6D806A476}|ArenaRPG\\ArenaRPG.csproj|solutionrelative:arenarpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BA8502-41BF-4DA9-9D1D-E1C6D806A476}|ArenaRPG\\ArenaRPG.csproj|s:\\temp\\projetos\\arenarpg\\arenarpg\\guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BA8502-41BF-4DA9-9D1D-E1C6D806A476}|ArenaRPG\\ArenaRPG.csproj|solutionrelative:arenarpg\\guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BA8502-41BF-4DA9-9D1D-E1C6D806A476}|ArenaRPG\\ArenaRPG.csproj|s:\\temp\\projetos\\arenarpg\\arenarpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BA8502-41BF-4DA9-9D1D-E1C6D806A476}|ArenaRPG\\ArenaRPG.csproj|solutionrelative:arenarpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Temp\\Projetos\\ArenaRPG\\ArenaRPG\\Program.cs",
+              "RelativeDocumentMoniker": "ArenaRPG\\Program.cs",
+              "ToolTip": "S:\\Temp\\Projetos\\ArenaRPG\\ArenaRPG\\Program.cs",
+              "RelativeToolTip": "ArenaRPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T19:19:19.534Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "S:\\Temp\\Projetos\\ArenaRPG\\ArenaRPG\\Personagem.cs",
+              "RelativeDocumentMoniker": "ArenaRPG\\Personagem.cs",
+              "ToolTip": "S:\\Temp\\Projetos\\ArenaRPG\\ArenaRPG\\Personagem.cs",
+              "RelativeToolTip": "ArenaRPG\\Personagem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T19:24:40.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mago.cs",
+              "DocumentMoniker": "S:\\Temp\\Projetos\\ArenaRPG\\ArenaRPG\\Mago.cs",
+              "RelativeDocumentMoniker": "ArenaRPG\\Mago.cs",
+              "ToolTip": "S:\\Temp\\Projetos\\ArenaRPG\\ArenaRPG\\Mago.cs",
+              "RelativeToolTip": "ArenaRPG\\Mago.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAqwDUAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T20:44:50.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guerreiro.cs",
+              "DocumentMoniker": "S:\\Temp\\Projetos\\ArenaRPG\\ArenaRPG\\Guerreiro.cs",
+              "RelativeDocumentMoniker": "ArenaRPG\\Guerreiro.cs",
+              "ToolTip": "S:\\Temp\\Projetos\\ArenaRPG\\ArenaRPG\\Guerreiro.cs",
+              "RelativeToolTip": "ArenaRPG\\Guerreiro.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T19:32:20.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
