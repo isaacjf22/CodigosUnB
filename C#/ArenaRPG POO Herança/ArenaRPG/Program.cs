@@ -2,7 +2,9 @@
 using System.Text.Json; //poder criar json de objetos 
 using System.IO;
 using System.Diagnostics.CodeAnalysis;
-using System.Security.Cryptography; //poder mexer nos arquivos 
+using System.Reflection.Metadata;
+using System.Security.Cryptography;
+using System.Xml; //poder mexer nos arquivos 
 
 namespace ArenaRPG
 {
@@ -27,7 +29,7 @@ namespace ArenaRPG
                 Console.WriteLine("4- Regras");
                 Console.WriteLine("5- Sair");
 
-                do
+                do //validação de entrada
                 {
                     tecla = Console.ReadKey(); //variavel para realizar leitura de tecla 
                 }while(tecla.KeyChar!='1'&& tecla.KeyChar!='2'&& tecla.KeyChar!='3' && tecla.KeyChar!='4'&& tecla.KeyChar!='5') ;
@@ -47,11 +49,6 @@ namespace ArenaRPG
                     case '5':
                         Console.WriteLine("Até a próxima batalha!");
                         stop = true;
-                        break;
-                    default:
-                        Console.WriteLine("Opção de escolha inválida!");
-                        Console.WriteLine("Tente novamente.");
-                        Pausar();
                         break;
                 }
                 
@@ -122,7 +119,7 @@ namespace ArenaRPG
 
 
 
-        static Personagem carregarPersonagem()
+        static Personagem CarregarPersonagem()
         {
             string[] arquivos = Directory.GetFiles(Directory.GetCurrentDirectory(), "*_save.json"); //pegando todos os arquivos presentes na pasta 
             Console.WriteLine();
@@ -140,14 +137,82 @@ namespace ArenaRPG
             }while(escolha<0 || escolha>arquivos.Length);
             
             string arquivoEscolhido = arquivos[escolha-1]; //pegando o nome do arquivo escolhido 
-            string jsom
-                n
+            string jsonLido = File.ReadAllText(arquivoEscolhido); //salvando o json do arquivo escolhido para desconverter 
             
+            Personagem personagemCarregado = JsonSerializer.Deserialize<Personagem>(jsonLido); //desconvertendo o json em objeto
+
+            Console.WriteLine($"O lutador {personagemCarregado.Nome} foi invocado com sucesso!");
+            
+            return personagemCarregado;
+        }
+
+        static void GerenciamentoPersonagem()
+        {
+            Console.Clear();
+            string[] arquivos = Directory.GetFiles(Directory.GetCurrentDirectory(), "*_save.json"); //pegando todos os arquivos
+            for (int i = 0; i < arquivos.Length; i++)
+            {
+                Console.WriteLine($"{i + 1} - {Path.GetFileNameWithoutExtension(arquivos[i])} ");
+            }
+
+            Console.WriteLine("O que pretende fazer?");
+            Console.WriteLine("1-ALTERAR NOME 2-APAGAR PERSONAGEM 3-SAIR");
+
+            char tecla; //poderia usar var , variavel geral q se adapta ao q receber 
+
+            do
+            {
+               tecla = Console.ReadKey().KeyChar;
+            } while (tecla != '1' && tecla != '2' && tecla != '3');
+
+            switch (tecla)
+            {
+                case '1':
+                    Console.WriteLine("Qual lutador deseja mudar o nome?");
+                    int escolha = int.Parse(Console.ReadLine());
+                    string arquivoEscolhido = arquivos[escolha-1];
+                    string jsonLido = File.ReadAllText(arquivoEscolhido);
+                    Personagem personagemEscolhido = JsonSerializer.Deserialize<Personagem>(jsonLido);
+                    
+                    Console.WriteLine("Qual é o novo nome?");
+                    string novoNome  = Console.ReadLine();
+                    personagemEscolhido.Nome = novoNome;
+                    string nomeArquivo = novoNome + "_save.json";
+                    string jsonObjeto = JsonSerializer.Serialize(personagemEscolhido); //convertendo o objeto 
+                    File.WriteAllText(nomeArquivo, jsonObjeto); 
+                    File.Delete(arquivoEscolhido);
+                    break;
+                
+                case '2':
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    break;
+                
+                case '3':
+                    break;
+            }
+
+
+
+
+
 
         }
+        
+        
+        
 
         static void Pausar()
         {
+            Console.WriteLine();
+            Console.WriteLine("Digite qualquer tecla para continuar...");
             Console.ReadKey(true); //true deixa invisivel a tecla
         }
 

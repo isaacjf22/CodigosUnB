@@ -1,7 +1,18 @@
 ﻿using System;
+using System.Text.Json.Serialization;
 
 namespace ArenaRPG
 {
+    
+    //criação de "etiquetas" para apontar para as classes filhas 
+    //atributos - forma de lidar com herança 
+    //jsonderivedtype - indicando pro json que essa classe tem filha 
+    //typeof indicando qual classe quero identificar 
+    //typediscriminator - a etiqueta q fica no json 
+    [JsonDerivedType(typeof(Guerreiro), typeDiscriminator: "guerreiro")]
+    [JsonDerivedType(typeof(Mago),   typeDiscriminator: "mago") ]
+    
+    
     public abstract class Personagem //abstract obriga q na herança seja escrito algo 
     {
         public string Nome { get; set; }
