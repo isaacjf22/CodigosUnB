@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArenaRPG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c0bb2f56e9f4779015ee690e123b31831c6da4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc70ae5c62ac3924c0b548dd3e071dfc2e66656b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArenaRPG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArenaRPG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
