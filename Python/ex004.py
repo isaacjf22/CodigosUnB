@@ -9,6 +9,3 @@ print("Tem SOMENTE espaços? ",palavra.isspace())
 print("Está tudo maiúsculo?" , palavra.isupper()) #isupper -> TUDO maiusculo 
 print("Está tudo minúsculo? " , palavra.islower()) #islower -> TUDO minusculo 
 print("Tem maiúsculo e minúsculo? ",palavra.istitle()) #istitle -> maiusculo e minusculo 
-
-
-
