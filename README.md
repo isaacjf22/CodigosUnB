@@ -19,4 +19,3 @@ No momento, estou aprofundando meus conhecimentos em:
 Este repositório reúne exercícios e projetos de fixação organizados por tema:
 
 * 🔹 **Lógica de Programação em C#** — exercícios de fixação com loops, condicionais, arrays, strings e manipulação de dados.
-* 🔹
