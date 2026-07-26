@@ -1,0 +1,14 @@
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\obj\Debug\net10.0\ContratoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\obj\Debug\net10.0\ContratoComposicao.AssemblyInfoInputs.cache
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\obj\Debug\net10.0\ContratoComposicao.AssemblyInfo.cs
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\obj\Debug\net10.0\ContratoComposicao.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\bin\Debug\net10.0\ContratoComposicao.exe
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\bin\Debug\net10.0\ContratoComposicao.deps.json
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\bin\Debug\net10.0\ContratoComposicao.runtimeconfig.json
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\bin\Debug\net10.0\ContratoComposicao.dll
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\bin\Debug\net10.0\ContratoComposicao.pdb
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\obj\Debug\net10.0\ContratoComposicao.dll
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\obj\Debug\net10.0\refint\ContratoComposicao.dll
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\obj\Debug\net10.0\ContratoComposicao.pdb
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\obj\Debug\net10.0\ContratoComposicao.genruntimeconfig.cache
+C:\Users\Isaac\Documents\temp\ContratoComposicao\ContratoComposicao\obj\Debug\net10.0\ref\ContratoComposicao.dll
