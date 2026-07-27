@@ -1,0 +1,14 @@
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\bin\Debug\net10.0\EstoqueComposição.exe
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\bin\Debug\net10.0\EstoqueComposição.deps.json
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\bin\Debug\net10.0\EstoqueComposição.runtimeconfig.json
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\bin\Debug\net10.0\EstoqueComposição.dll
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\bin\Debug\net10.0\EstoqueComposição.pdb
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\obj\Debug\net10.0\EstoqueComposição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\obj\Debug\net10.0\EstoqueComposição.AssemblyInfoInputs.cache
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\obj\Debug\net10.0\EstoqueComposição.AssemblyInfo.cs
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\obj\Debug\net10.0\EstoqueComposição.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\obj\Debug\net10.0\EstoqueComposição.dll
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\obj\Debug\net10.0\refint\EstoqueComposição.dll
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\obj\Debug\net10.0\EstoqueComposição.pdb
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\obj\Debug\net10.0\EstoqueComposição.genruntimeconfig.cache
+C:\Users\Isaac\Documents\temp\EstoqueComposição\EstoqueComposição\obj\Debug\net10.0\ref\EstoqueComposição.dll
