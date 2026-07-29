@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac\\Documents\\temp\\Funcionarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC2944-AADC-E814-D582-A01762F7FF2C}|Funcionarios\\Funcionarios.csproj|c:\\users\\isaac\\documents\\temp\\funcionarios\\funcionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFC2944-AADC-E814-D582-A01762F7FF2C}|Funcionarios\\Funcionarios.csproj|solutionrelative:funcionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC2944-AADC-E814-D582-A01762F7FF2C}|Funcionarios\\Funcionarios.csproj|c:\\users\\isaac\\documents\\temp\\funcionarios\\funcionarios\\entities\\empregadotercerizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFC2944-AADC-E814-D582-A01762F7FF2C}|Funcionarios\\Funcionarios.csproj|solutionrelative:funcionarios\\entities\\empregadotercerizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC2944-AADC-E814-D582-A01762F7FF2C}|Funcionarios\\Funcionarios.csproj|c:\\users\\isaac\\documents\\temp\\funcionarios\\funcionarios\\entities\\empregado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFC2944-AADC-E814-D582-A01762F7FF2C}|Funcionarios\\Funcionarios.csproj|solutionrelative:funcionarios\\entities\\empregado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpregadoTercerizado.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\Funcionarios\\Funcionarios\\Entities\\EmpregadoTercerizado.cs",
+              "RelativeDocumentMoniker": "Funcionarios\\Entities\\EmpregadoTercerizado.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\Funcionarios\\Funcionarios\\Entities\\EmpregadoTercerizado.cs",
+              "RelativeToolTip": "Funcionarios\\Entities\\EmpregadoTercerizado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T14:01:05.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empregado.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\Funcionarios\\Funcionarios\\Entities\\Empregado.cs",
+              "RelativeDocumentMoniker": "Funcionarios\\Entities\\Empregado.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\Funcionarios\\Funcionarios\\Entities\\Empregado.cs",
+              "RelativeToolTip": "Funcionarios\\Entities\\Empregado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T13:56:06.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\Funcionarios\\Funcionarios\\Program.cs",
+              "RelativeDocumentMoniker": "Funcionarios\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\Funcionarios\\Funcionarios\\Program.cs",
+              "RelativeToolTip": "Funcionarios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T13:48:04.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

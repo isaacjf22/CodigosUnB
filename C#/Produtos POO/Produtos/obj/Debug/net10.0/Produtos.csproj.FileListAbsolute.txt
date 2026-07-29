@@ -1,0 +1,14 @@
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\bin\Debug\net10.0\Produtos.exe
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\bin\Debug\net10.0\Produtos.deps.json
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\bin\Debug\net10.0\Produtos.runtimeconfig.json
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\bin\Debug\net10.0\Produtos.dll
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\bin\Debug\net10.0\Produtos.pdb
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\obj\Debug\net10.0\Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\obj\Debug\net10.0\Produtos.AssemblyInfoInputs.cache
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\obj\Debug\net10.0\Produtos.AssemblyInfo.cs
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\obj\Debug\net10.0\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\obj\Debug\net10.0\Produtos.dll
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\obj\Debug\net10.0\refint\Produtos.dll
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\obj\Debug\net10.0\Produtos.pdb
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\obj\Debug\net10.0\Produtos.genruntimeconfig.cache
+C:\Users\Isaac\Documents\temp\Produtos\Produtos\obj\Debug\net10.0\ref\Produtos.dll

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac\\Documents\\temp\\Produtos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F255EB20-A314-46A1-B49E-2E9A01C018BB}|Produtos\\Produtos.csproj|c:\\users\\isaac\\documents\\temp\\produtos\\produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F255EB20-A314-46A1-B49E-2E9A01C018BB}|Produtos\\Produtos.csproj|solutionrelative:produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F255EB20-A314-46A1-B49E-2E9A01C018BB}|Produtos\\Produtos.csproj|c:\\users\\isaac\\documents\\temp\\produtos\\produtos\\entities\\produtoimportado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F255EB20-A314-46A1-B49E-2E9A01C018BB}|Produtos\\Produtos.csproj|solutionrelative:produtos\\entities\\produtoimportado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F255EB20-A314-46A1-B49E-2E9A01C018BB}|Produtos\\Produtos.csproj|c:\\users\\isaac\\documents\\temp\\produtos\\produtos\\entities\\produtousado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F255EB20-A314-46A1-B49E-2E9A01C018BB}|Produtos\\Produtos.csproj|solutionrelative:produtos\\entities\\produtousado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F255EB20-A314-46A1-B49E-2E9A01C018BB}|Produtos\\Produtos.csproj|c:\\users\\isaac\\documents\\temp\\produtos\\produtos\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F255EB20-A314-46A1-B49E-2E9A01C018BB}|Produtos\\Produtos.csproj|solutionrelative:produtos\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\Produtos\\Produtos\\Program.cs",
+              "RelativeDocumentMoniker": "Produtos\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\Produtos\\Produtos\\Program.cs",
+              "RelativeToolTip": "Produtos\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T15:43:40.934Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoUsado.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\Produtos\\Produtos\\Entities\\ProdutoUsado.cs",
+              "RelativeDocumentMoniker": "Produtos\\Entities\\ProdutoUsado.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\Produtos\\Produtos\\Entities\\ProdutoUsado.cs",
+              "RelativeToolTip": "Produtos\\Entities\\ProdutoUsado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T15:46:06.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoImportado.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\Produtos\\Produtos\\Entities\\ProdutoImportado.cs",
+              "RelativeDocumentMoniker": "Produtos\\Entities\\ProdutoImportado.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\Produtos\\Produtos\\Entities\\ProdutoImportado.cs",
+              "RelativeToolTip": "Produtos\\Entities\\ProdutoImportado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T15:45:55.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\Produtos\\Produtos\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "Produtos\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\Produtos\\Produtos\\Entities\\Produto.cs",
+              "RelativeToolTip": "Produtos\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T15:45:41.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
