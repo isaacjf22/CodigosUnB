@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac\\Documents\\temp\\Figuras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF007F5-A9D9-486A-B081-465DA32D9D3A}|Figuras\\Figuras.csproj|c:\\users\\isaac\\documents\\temp\\figuras\\figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF007F5-A9D9-486A-B081-465DA32D9D3A}|Figuras\\Figuras.csproj|solutionrelative:figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF007F5-A9D9-486A-B081-465DA32D9D3A}|Figuras\\Figuras.csproj|c:\\users\\isaac\\documents\\temp\\figuras\\figuras\\entities\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF007F5-A9D9-486A-B081-465DA32D9D3A}|Figuras\\Figuras.csproj|solutionrelative:figuras\\entities\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF007F5-A9D9-486A-B081-465DA32D9D3A}|Figuras\\Figuras.csproj|c:\\users\\isaac\\documents\\temp\\figuras\\figuras\\entities\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF007F5-A9D9-486A-B081-465DA32D9D3A}|Figuras\\Figuras.csproj|solutionrelative:figuras\\entities\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF007F5-A9D9-486A-B081-465DA32D9D3A}|Figuras\\Figuras.csproj|c:\\users\\isaac\\documents\\temp\\figuras\\figuras\\entities\\enum\\cores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF007F5-A9D9-486A-B081-465DA32D9D3A}|Figuras\\Figuras.csproj|solutionrelative:figuras\\entities\\enum\\cores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF007F5-A9D9-486A-B081-465DA32D9D3A}|Figuras\\Figuras.csproj|c:\\users\\isaac\\documents\\temp\\figuras\\figuras\\entities\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF007F5-A9D9-486A-B081-465DA32D9D3A}|Figuras\\Figuras.csproj|solutionrelative:figuras\\entities\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\Figuras\\Figuras\\Entities\\Circulo.cs",
+              "RelativeDocumentMoniker": "Figuras\\Entities\\Circulo.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\Figuras\\Figuras\\Entities\\Circulo.cs",
+              "RelativeToolTip": "Figuras\\Entities\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T02:29:53.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\Figuras\\Figuras\\Entities\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Figuras\\Entities\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\Figuras\\Figuras\\Entities\\Retangulo.cs",
+              "RelativeToolTip": "Figuras\\Entities\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T02:22:44.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cores.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\Figuras\\Figuras\\Entities\\Enum\\Cores.cs",
+              "RelativeDocumentMoniker": "Figuras\\Entities\\Enum\\Cores.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\Figuras\\Figuras\\Entities\\Enum\\Cores.cs",
+              "RelativeToolTip": "Figuras\\Entities\\Enum\\Cores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T02:18:59.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\Figuras\\Figuras\\Entities\\Figura.cs",
+              "RelativeDocumentMoniker": "Figuras\\Entities\\Figura.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\Figuras\\Figuras\\Entities\\Figura.cs",
+              "RelativeToolTip": "Figuras\\Entities\\Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T02:18:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\Figuras\\Figuras\\Program.cs",
+              "RelativeDocumentMoniker": "Figuras\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\Figuras\\Figuras\\Program.cs*",
+              "RelativeToolTip": "Figuras\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T02:18:07.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

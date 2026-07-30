@@ -1,0 +1,14 @@
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\bin\Debug\net10.0\Impostos.exe
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\bin\Debug\net10.0\Impostos.deps.json
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\bin\Debug\net10.0\Impostos.runtimeconfig.json
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\bin\Debug\net10.0\Impostos.dll
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\bin\Debug\net10.0\Impostos.pdb
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\obj\Debug\net10.0\Impostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\obj\Debug\net10.0\Impostos.AssemblyInfoInputs.cache
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\obj\Debug\net10.0\Impostos.AssemblyInfo.cs
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\obj\Debug\net10.0\Impostos.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\obj\Debug\net10.0\Impostos.dll
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\obj\Debug\net10.0\refint\Impostos.dll
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\obj\Debug\net10.0\Impostos.pdb
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\obj\Debug\net10.0\Impostos.genruntimeconfig.cache
+C:\Users\Isaac\Documents\temp\Imposto\Imposto\obj\Debug\net10.0\ref\Impostos.dll
