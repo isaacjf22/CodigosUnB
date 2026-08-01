@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac\\Documents\\temp\\TratamentoBanco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{950834B1-CAB5-45A0-88A5-FAE2529D958B}|TratamentoBanco\\TratamentoBanco.csproj|c:\\users\\isaac\\documents\\temp\\tratamentobanco\\tratamentobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950834B1-CAB5-45A0-88A5-FAE2529D958B}|TratamentoBanco\\TratamentoBanco.csproj|solutionrelative:tratamentobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950834B1-CAB5-45A0-88A5-FAE2529D958B}|TratamentoBanco\\TratamentoBanco.csproj|c:\\users\\isaac\\documents\\temp\\tratamentobanco\\tratamentobanco\\entities\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950834B1-CAB5-45A0-88A5-FAE2529D958B}|TratamentoBanco\\TratamentoBanco.csproj|solutionrelative:tratamentobanco\\entities\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950834B1-CAB5-45A0-88A5-FAE2529D958B}|TratamentoBanco\\TratamentoBanco.csproj|c:\\users\\isaac\\documents\\temp\\tratamentobanco\\tratamentobanco\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950834B1-CAB5-45A0-88A5-FAE2529D958B}|TratamentoBanco\\TratamentoBanco.csproj|solutionrelative:tratamentobanco\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\TratamentoBanco\\TratamentoBanco\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "TratamentoBanco\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\TratamentoBanco\\TratamentoBanco\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "TratamentoBanco\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T00:04:25.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\TratamentoBanco\\TratamentoBanco\\Entities\\Conta.cs",
+              "RelativeDocumentMoniker": "TratamentoBanco\\Entities\\Conta.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\TratamentoBanco\\TratamentoBanco\\Entities\\Conta.cs",
+              "RelativeToolTip": "TratamentoBanco\\Entities\\Conta.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wDMAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T23:52:22.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Documents\\temp\\TratamentoBanco\\TratamentoBanco\\Program.cs",
+              "RelativeDocumentMoniker": "TratamentoBanco\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac\\Documents\\temp\\TratamentoBanco\\TratamentoBanco\\Program.cs",
+              "RelativeToolTip": "TratamentoBanco\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T23:44:00.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

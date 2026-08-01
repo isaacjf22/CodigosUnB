@@ -1,0 +1,14 @@
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\bin\Debug\net10.0\TratamentoBanco.exe
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\bin\Debug\net10.0\TratamentoBanco.deps.json
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\bin\Debug\net10.0\TratamentoBanco.runtimeconfig.json
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\bin\Debug\net10.0\TratamentoBanco.dll
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\bin\Debug\net10.0\TratamentoBanco.pdb
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\obj\Debug\net10.0\TratamentoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\obj\Debug\net10.0\TratamentoBanco.AssemblyInfoInputs.cache
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\obj\Debug\net10.0\TratamentoBanco.AssemblyInfo.cs
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\obj\Debug\net10.0\TratamentoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\obj\Debug\net10.0\TratamentoBanco.dll
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\obj\Debug\net10.0\refint\TratamentoBanco.dll
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\obj\Debug\net10.0\TratamentoBanco.pdb
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\obj\Debug\net10.0\TratamentoBanco.genruntimeconfig.cache
+C:\Users\Isaac\Documents\temp\TratamentoBanco\TratamentoBanco\obj\Debug\net10.0\ref\TratamentoBanco.dll
