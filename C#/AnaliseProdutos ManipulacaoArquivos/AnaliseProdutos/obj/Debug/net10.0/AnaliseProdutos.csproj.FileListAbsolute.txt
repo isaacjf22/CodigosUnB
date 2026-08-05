@@ -1,0 +1,14 @@
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\bin\Debug\net10.0\AnaliseProdutos.exe
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\bin\Debug\net10.0\AnaliseProdutos.deps.json
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\bin\Debug\net10.0\AnaliseProdutos.runtimeconfig.json
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\bin\Debug\net10.0\AnaliseProdutos.dll
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\bin\Debug\net10.0\AnaliseProdutos.pdb
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\obj\Debug\net10.0\AnaliseProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\obj\Debug\net10.0\AnaliseProdutos.AssemblyInfoInputs.cache
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\obj\Debug\net10.0\AnaliseProdutos.AssemblyInfo.cs
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\obj\Debug\net10.0\AnaliseProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\obj\Debug\net10.0\AnaliseProdutos.dll
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\obj\Debug\net10.0\refint\AnaliseProdutos.dll
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\obj\Debug\net10.0\AnaliseProdutos.pdb
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\obj\Debug\net10.0\AnaliseProdutos.genruntimeconfig.cache
+C:\Users\Isaac\Documents\temp\AnaliseProdutos\AnaliseProdutos\obj\Debug\net10.0\ref\AnaliseProdutos.dll
